@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hikmet Xidirzade
+- 👋 Hi, I’m Hikmət Xidirzadə
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Developing
 - 💞️ I’m looking to collaborate on Comnpany
