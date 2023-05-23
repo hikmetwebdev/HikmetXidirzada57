@@ -1,8 +1,7 @@
 - 👋 Hi there,
 -  I’m Hikmət Xidirzadə
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Developing
-- 💞️ I’m looking to collaborate on Comnpany
+- 🌱 I’m currently Developing
 - 📫 How to reach me +994554770076
 
 <!---
